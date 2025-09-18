@@ -1,6 +1,6 @@
 module github.com/Danilosius/12sprint
 
-go 1.22.12
+go 1.23
 
 require (
 	github.com/stretchr/testify v1.11.1
